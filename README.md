@@ -1,3 +1,5 @@
+**UPDATED CONDOR PROBE HAS BEEN MOVED TO [HEPiX-batchmonitoring/fifemon-condor-probe](https://github.com/HEPiX-batchmonitoring/fifemon-condor-probe)**
+
 Fifemon
 =======
 
